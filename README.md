@@ -40,4 +40,4 @@ The system uses a directed acyclic graph (DAG) managed by LangGraph to orchestra
 Aether OS executes all code within isolated Docker containers to prevent host contamination. It also includes a security auditor agent that scans all generated code for potential vulnerabilities.
 
 ---
-Built with ❤️ by Antigravity.
+Built by Ananthapadmanabhan 
